@@ -1,0 +1,33 @@
+Grant Meadors
+2012-03-14
+CODIS markers
+
+
+Autosomal Markers Panel 1
+MARKERS 	VALUE
+CSF1PO 	10- 12
+D13S317 	8- 15
+D16S539 	12- 12
+D18S51 	15- 17
+D21S11 	29- 33.2
+D3S1358 	16- 18
+D5S818 	10- 14
+D7S820 	8- 11
+D8S1179 	14- 15
+FGA 	22- 23
+Penta D 	9- 10
+Penta E 	7- 10
+TH01 	6- 9
+TPOX 	8- 11
+vWA 	16- 16
+Autosomal Markers Panel 2
+MARKERS 	VALUE
+D19S433 	14- 14
+D2S1338 	17- 25
+F13A01 	7- 7
+F13B 	10- 10
+FESFPS 	11- 12
+LPL 	10- 10
+Penta B * 	12- 17?
+Penta C 	11- 12
+SE33 	18- 19 
