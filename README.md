@@ -5,7 +5,7 @@
 Contains genetic data for myself, Grant David Meadors (hu2FEC01, PGP 19).
 
 Post-script:
-02020-01-03 (JD 2458852) --
+02020-01-24 (JD 2458873) --
 PGP-signing for inclusion in the
 Github Arctic Code Vault,
 Grant David Meadors, PhD
